@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi👋I'm Ceyda🧚🏻‍♀️</h1>
 <h3 align="center">I graduated from Sakarya University Computer Engineering Department.</h3>
-<h3 align="center">🌱 I’m currently learning ReactJS and VueJS.<h/3>
+<h3 align="center">🌱 I’m currently learning ReactJS.<h/3>
 
 <h3 align="center">☎️Connect☎️</h3>
 <p align="center">
