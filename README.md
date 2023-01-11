@@ -40,12 +40,4 @@
   
   </p>
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onemliceyda&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-  
- ![Ceyda's GitHub stats](https://github-readme-stats.vercel.app/api?username=onemliceyda&theme=radical&show_icons=true) 
-
-  
-
-
-
  
