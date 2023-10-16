@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi👋I'm Ceyda🧚🏻‍♀️</h1>
-<h3 align="center">🌱 I’m currently working on AngularJS and TypeScript <h/3>
+<h3 align="center">🌱 I’m currently working on ReactJS, AngularJS and TypeScript <h/3>
 
 
   
